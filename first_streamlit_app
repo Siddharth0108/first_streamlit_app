@@ -4,4 +4,4 @@ streamlit.header('Pokemon Unite')
 streamlit.text('be a PRO like me😏')
 streamlit.text('SDK')
 Pokefilter=streamlit.slider('Poke',-69,420,69)
-st.markdown("[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)")
+
